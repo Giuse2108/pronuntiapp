@@ -1,0 +1,10 @@
+# Android / Wear OS
+/build/
+*.iml
+/.gradle/
+*.apk
+
+# Python backend
+__pycache__/
+*.pyc
+.env/
